@@ -165,5 +165,4 @@ Para implementar la arquitectura hexagonal en tu proyecto, sigue estos pasos:
 >
 > 🏠 **De:** lima, Perú
 >
-> 💼 **Linkedin:** [SoriaMaximilianoRodrigo]((https://www.linkedin.com/in/nikolaychristofher-/))
 
