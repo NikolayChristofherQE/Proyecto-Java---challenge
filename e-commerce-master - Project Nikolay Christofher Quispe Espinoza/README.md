@@ -26,7 +26,7 @@
 
 La arquitectura hexagonal, también conocida como "arquitectura de puertos y adaptadores," es un enfoque de diseño de software que promueve la separación de las preocupaciones y facilita la mantenibilidad, escalabilidad y pruebas de aplicaciones. En esta guía, exploraremos los conceptos clave de la arquitectura hexagonal y cómo implementarla en tus proyectos.<br>
 
-### ⭐ Curso de Udemy
+### ⭐ Ejemplo del desafio en el Proyecto 
 
 Estos ejemplo esta dados por el curso de Udemy **Proyecto Ecommerce con Spring Boot y Arquitectura Hexagonal**
 
