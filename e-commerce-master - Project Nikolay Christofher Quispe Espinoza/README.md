@@ -159,7 +159,7 @@ Para implementar la arquitectura hexagonal en tu proyecto, sigue estos pasos:
 ### ⭐ Autor
 <br>
 
-> ‍💻 **Nombre:** nIKOLAY cHRISTOFHER qUISPE eSPINOZA
+> ‍💻 **Nombre:** Nikolay Christofher Quispe Espinoza
 >
 > 📧 **Email:** nikolaychristofher@gmail.com
 >
