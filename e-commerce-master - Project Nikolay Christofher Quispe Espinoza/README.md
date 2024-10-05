@@ -31,9 +31,6 @@ La arquitectura hexagonal, también conocida como "arquitectura de puertos y ada
 Estos ejemplo esta dados por el curso de Udemy **Proyecto Ecommerce con Spring Boot y Arquitectura Hexagonal**
 
 
-Link: https://www.udemy.com/course/proyecto-ecommerce-con-spring-boot-y-arquitectura-hexagonal
-
-
 
 #### Objetivo
 
