@@ -162,9 +162,6 @@ Para implementar la arquitectura hexagonal en tu proyecto, sigue estos pasos:
 <a href="https://www.udemy.com/certificate/UC-8af58d48-0983-4c1e-95b8-9b854f95c220/" target="_blank" rel="noopener noreferrer">
 <img width="100%" height="100%" src="docs/img/certificado.jpg" alt="Linkedin"></a></p>
 
-> [!NOTE]
-> Puedes entrar al certificado dando clic sobre el la imagen.
----
 
 <br/>
 
