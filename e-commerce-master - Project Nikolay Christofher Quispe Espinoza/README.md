@@ -156,7 +156,6 @@ Para implementar la arquitectura hexagonal en tu proyecto, sigue estos pasos:
 | ADMIN  | Administrador |
 | USER   | Usuario      |
 
-### ⭐ Certificado
 
 
 <p align="center">
