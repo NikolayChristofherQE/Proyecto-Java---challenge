@@ -173,14 +173,11 @@ Para implementar la arquitectura hexagonal en tu proyecto, sigue estos pasos:
 ### ⭐ Autor
 <br>
 
-> ‍💻 **Nombre:** Maximiliano Rodrigo Soria
+> ‍💻 **Nombre:** nIKOLAY cHRISTOFHER qUISPE eSPINOZA
 >
-> 📧 **Email:** MaximilianoRodrigoSoria@gmail.com
+> 📧 **Email:** nikolaychristofher@gmail.com
 >
-> 🏠 **De:** Florencio Varela, Alpino
+> 🏠 **De:** lima, Perú
 >
-> 💼 **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
->
-> 💬 **Chatear:**  [Inicia un chat](https://wa.me/1127043256) 
->
-> 📝 **CV:** [Link](https://www.canva.com/design/DAFxIt0xaNQ/tKTSodPQyHett1abRieMyw/view?utm_content=DAFxIt0xaNQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+> 💼 **Linkedin:** [SoriaMaximilianoRodrigo]((https://www.linkedin.com/in/nikolaychristofher-/))
+
